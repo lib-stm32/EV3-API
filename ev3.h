@@ -42,6 +42,7 @@ typedef struct
     getchar();
 } message_to_ev3;
 
+
 #endif // ev3_h
 
 #ifdef __cplusplus
