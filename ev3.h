@@ -56,7 +56,8 @@ typedef struct
          }
      }
  }
-
+#define MESSAGE_TO_LCD 
+bool MESSAGE_TO_LCD_EV3(void);
 #endif // ev3_h
 
 #ifdef __cplusplus
