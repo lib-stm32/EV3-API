@@ -32,6 +32,12 @@ bool EV3IsInitialized(void);
 static int __attribute__((used,deprecated)) (* volatile __reference_InitEV3)(void) = InitEV3;
 static int __attribute__((used,deprecated)) (* volatile __reference_FreeEV3)(void) = FreeEV3;
 #endif
+typedef struct 
+{
+    /* data */
+    const char *LCD_stm32
+    const char *
+};
 
 #endif // ev3_h
 
