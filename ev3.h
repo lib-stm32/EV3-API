@@ -41,7 +41,21 @@ typedef struct
     bool Message_ARRAY [25] ;
     getchar();
 } message_to_ev3;
-
+ bool Message_EV3()
+ {
+     char value_message[15];
+     while(&value_message, info == 5)
+     {
+         if ( started)
+         {
+             #ifdef /*define*/test_message_ev3
+             scanf("%f,%25", info == 1)
+                /* code */
+             #endif ///*define*/
+             
+         }
+     }
+ }
 
 #endif // ev3_h
 
