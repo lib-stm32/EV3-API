@@ -35,9 +35,12 @@ static int __attribute__((used,deprecated)) (* volatile __reference_FreeEV3)(voi
 typedef struct 
 {
     /* data */
-    const char *LCD_stm32
-    const char *
-};
+    const char *LCD_EV3
+    const char *message_4_EV3;
+    #define bool EV3_TO_MESSAGE 0xFF
+    bool Message_ARRAY [25] ;
+    getchar();
+} message_to_ev3;
 
 #endif // ev3_h
 
