@@ -28,11 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9928c658-157c-4a66-a8f3-461aa74c8116" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/for start_point.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for start_point.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eeprom_byte.h" beforeDir="false" afterPath="$PROJECT_DIR$/eeprom_byte.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start_point.asm" beforeDir="false" afterPath="$PROJECT_DIR$/start_point.asm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event handling/boots_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EV3-API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EV3-API.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,13 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +60,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
